@@ -43,6 +43,28 @@ STEP 6: Use zscore of to remove outliers
 
 ![image](https://github.com/user-attachments/assets/202fb7bf-8995-4aea-a0dd-aed79f926744)
 
+# IQR(Inter Quartile Range)
+![image](https://github.com/user-attachments/assets/8c24ced3-9a50-4399-acec-696220bc679c)
+
+![image](https://github.com/user-attachments/assets/c12da4d4-8ac3-4e68-b775-7ec8dfa53634)
+
+![image](https://github.com/user-attachments/assets/9c168551-d1b3-4112-923e-cae4d8510acf)
+
+![image](https://github.com/user-attachments/assets/04bc8baf-41bb-4ea6-ae8e-f5c5a1dfe8e5)
+
+![image](https://github.com/user-attachments/assets/431e7ec5-597c-454f-bfdf-7968dd85a6b3)
+
+![image](https://github.com/user-attachments/assets/c81aa1ba-af22-41fb-b7c5-9505320a40dd)
+
+![image](https://github.com/user-attachments/assets/fb28bcfe-55d3-449b-af00-aecf758e84ee)
+
+![image](https://github.com/user-attachments/assets/71be1a79-8540-4575-9eed-a2e85caafffb)
+
+# Z_Score
+![image](https://github.com/user-attachments/assets/7c010ed6-f6e3-489b-8164-3d24ef407219)
+
+![image](https://github.com/user-attachments/assets/6651a5e5-ac84-4397-a29b-562527fce739)
+
 # Result
 
 Thus the outliers are detected and removed in the given file
